@@ -26,3 +26,5 @@ Guestbook simples com MySQL. Visitantes deixam mensagens que ficam salvas no ban
 <!-- 2021-03-19 15:16 -->
 
 <!-- 2021-03-19 15:16 -->
+
+<!-- 2021-03-19 15:16 -->
